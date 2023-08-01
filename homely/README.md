@@ -22,4 +22,4 @@ The smart home Flutter UI design project will focus on creating a modern and int
 
 ## Screenshot
 
-<img width="1920" alt="Smart Home" src="https://github.com/perfecttushar/Flutter-Projects/assets/70326041/1651aa00-2f51-444f-a5b2-fac52f59fdef">
+<img width="1920" alt="Smart Home" src="https://github.com/perfecttushar/Flutter-Projects/assets/70326041/e423e716-db65-4cf7-ac3c-559e2c29529f">

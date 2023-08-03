@@ -1,16 +1,27 @@
-# social
 
-A new Flutter project.
+# Smart Home UI
+## Project Overview:
 
-## Getting Started
+"Post" is a captivating Flutter app that fosters community engagement. Share your ideas, experiences, and creativity with ease. Join now and discover a vibrant social network like no other.
 
-This project is a starting point for a Flutter application.
+## Project Description:
 
-A few resources to get you started if this is your first Flutter project:
+"Post" is a cutting-edge Flutter app redefining social connections. Express yourself through text-based posts, interact with others, and engage in meaningful conversations. Join now to experience a new era of community-driven networking.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies and Tools:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1] Flutter: Utilize Flutter as the primary UI development framework.
+
+2] Dart: Use the Dart programming language to write the application logic.
+
+3] Material Design: Follow Material Design principles and guidelines for a consistent and visually appealing UI.
+
+4] VS Code: IDE to write, test, and run the Flutter application.
+
+5] Emulators / Real Devices: Test the app on emulators/simulators and real devices to ensure compatibility.
+
+## Screenshot
+
+![Social](https://github.com/perfecttushar/Flutter-Projects/assets/70326041/26436d32-d878-49cf-a74d-ca10d11879ec)
+
+![Social 2](https://github.com/perfecttushar/Flutter-Projects/assets/70326041/c5392a0d-5c23-483a-8f83-3aebb61cc3bb)

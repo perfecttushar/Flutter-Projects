@@ -16,7 +16,7 @@ The smart home Flutter UI design project will focus on creating a modern and int
 
 3] Material Design: Follow Material Design principles and guidelines for a consistent and visually appealing UI.
 
-4] Android Studio / VS Code: IDEs to write, test, and run the Flutter application.
+4] VS Code: IDE to write, test, and run the Flutter application.
 
 5] Emulators / Real Devices: Test the app on emulators/simulators and real devices to ensure compatibility.
 

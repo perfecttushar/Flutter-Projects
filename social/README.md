@@ -24,4 +24,4 @@
 
 ![Social](https://github.com/perfecttushar/Flutter-Projects/assets/70326041/26436d32-d878-49cf-a74d-ca10d11879ec)
 
-![Social 2](https://github.com/perfecttushar/Flutter-Projects/assets/70326041/c5392a0d-5c23-483a-8f83-3aebb61cc3bb)
+![Social 2](https://github.com/perfecttushar/Flutter-Projects/assets/70326041/cb799716-1cf7-4851-81c1-3ec50895b0df)

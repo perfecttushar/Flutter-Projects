@@ -24,4 +24,4 @@ The Chat App project aims to create a cross-platform messaging application using
 
 ![Chat](https://github.com/perfecttushar/Flutter-Projects/assets/70326041/4090806d-a358-455c-bdf1-a7bb7cd6e892)
 
-![Chat 2](https://github.com/perfecttushar/Flutter-Projects/assets/70326041/4714787e-dfaf-4e99-b1fe-39c7cdf3d897)
+![Chat 2](https://github.com/perfecttushar/Flutter-Projects/assets/70326041/297e3d56-7674-4818-b6f0-5ed8ee5ca9e9)
